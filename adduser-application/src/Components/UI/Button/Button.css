@@ -1,0 +1,11 @@
+.btn{
+    background-color: #520552;
+    outline: none;
+    border: none;
+    color: white;
+    padding: 0.3rem 1rem;
+    cursor: pointer;
+}
+.btn:hover,.btn:active,.btn:focus{
+    background-color: #8b208b;
+}

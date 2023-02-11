@@ -1,0 +1,12 @@
+.form-field__label{
+    font-size: 16px;
+    font-weight: bold;
+    margin: 7px 0px;
+}
+.form-field input{
+    width: 100%;
+    box-sizing: border-box;
+}
+.Add-user__form button{
+    margin-top: 7px;
+}
